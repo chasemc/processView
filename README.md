@@ -1,6 +1,6 @@
 ### Purpose
 
-I didn't look too long, but couldn't find a tool to graph out Windows process and children process. So wrote this quick Shiny app to do so. 
+I didn't look too long, but couldn't find a tool to graph out Windows parent and children processes. So wrote this quick Shiny app to do so. 
 
 ![alt text](inst/www/screenshot.gif)
 
