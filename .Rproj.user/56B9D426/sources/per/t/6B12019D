@@ -1,0 +1,24 @@
+{
+    "id": "6B12019D",
+    "path": "~/GitHub/processView/R/makeTree.R",
+    "project_path": "R/makeTree.R",
+    "type": "r_source",
+    "hash": "3153008934",
+    "contents": "",
+    "dirty": false,
+    "created": 1559155461278.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "cursorPosition": "62,24",
+        "scrollLine": "39"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1559160344,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1559160344025,
+    "read_only": false,
+    "read_only_alternatives": []
+}

@@ -1,0 +1,25 @@
+{
+    "id": "99BB3853",
+    "path": "~/GitHub/processView/R/server.R",
+    "project_path": "R/server.R",
+    "type": "r_source",
+    "hash": "3321982248",
+    "contents": "",
+    "dirty": false,
+    "created": 1559156414702.0,
+    "source_on_save": false,
+    "relative_order": 5,
+    "properties": {
+        "tempName": "Untitled2",
+        "cursorPosition": "20,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1559160338,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1559160338260,
+    "read_only": false,
+    "read_only_alternatives": []
+}
